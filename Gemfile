@@ -7,4 +7,4 @@ gem 'rake'
 gem 'thor'
 gem 'activesupport'
 gem 'stringex'
-gem 'ffi', "= 1.9.0"
+gem 'ffi', '= 1.9.0'
