@@ -9,7 +9,6 @@ image:
   credit: Texture Lovers
   creditlink: http://texturelovers.com
 ---
-
 <section id="table-of-contents" class="toc">
   <header>
     <h3>Contents</h3>
@@ -25,17 +24,11 @@ image:
 Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
 
 # Heading 1
-
 ## Heading 2
-
 ### Heading 3
-
 #### Heading 4
-
 ##### Heading 5
-
 ###### Heading 6
-
 ### Body text
 
 Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
@@ -89,9 +82,6 @@ HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, c
   width: 100%;
 }
 {% endhighlight %}
-
 ## Buttons
-
 Make any link standout more when applying the `.btn` class.
-
 <div markdown="0"><a href="#" class="btn">This is a button</a></div>
